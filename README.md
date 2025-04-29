@@ -26,5 +26,5 @@ In `index.js`, write JavaScript according to the following steps. Make sure the 
 
 Please submit the link to your public GitHub repository.
 
-
+## Em learning note
 Em: note that it's crucial to link index.js to index.html by using the script tags -> to make it available to view it via live server I guess... => need to check and experiment!
